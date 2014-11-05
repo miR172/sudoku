@@ -16,9 +16,9 @@ However, with slightly lower score 160, the solution could be easily printed in 
 If you knows why please let me know and if you are within my 5km range I could treat you beer for help.
 
 Work cited/helped 
-Sato, Y., Hasegawa, N., & Sato, M. (2011, June). GPU acceleration for Sudoku solution with genetic operations. In Evolutionary Computation (CEC), 2011 IEEE Congress on (pp. 296-303). IEEE.
-Sato, Y., & Inoue, H. (2010, August). Solving Sudoku with genetic operations that preserve building blocks. In Computational Intelligence and Games (CIG), 2010 IEEE Symposium on (pp. 23-29). IEEE.
-Mantere, T., & Koljonen, J. (2007, September). Solving, rating and generating Sudoku puzzles with GA. In Evolutionary Computation, 2007. CEC 2007. IEEE Congress on (pp. 1382-1389). IEEE.
+1 Sato, Y., Hasegawa, N., & Sato, M. (2011, June). GPU acceleration for Sudoku solution with genetic operations. In Evolutionary Computation (CEC), 2011 IEEE Congress on (pp. 296-303). IEEE.
+2 Sato, Y., & Inoue, H. (2010, August). Solving Sudoku with genetic operations that preserve building blocks. In Computational Intelligence and Games (CIG), 2010 IEEE Symposium on (pp. 23-29). IEEE.
+3 Mantere, T., & Koljonen, J. (2007, September). Solving, rating and generating Sudoku puzzles with GA. In Evolutionary Computation, 2007. CEC 2007. IEEE Congress on (pp. 1382-1389). IEEE.
 
 -----------------
 Obviously either I was made to do this or I was drunk...
